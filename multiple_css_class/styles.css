@@ -1,0 +1,9 @@
+/* Multiple CSS classes can be applied to a single HTML element the following CSS rule will be applied to a single HTML element and both will apply*/
+
+.red-text {
+    color: red;
+}
+
+.large-text {
+    font-size: 36px;
+}
