@@ -1,0 +1,7 @@
+/* This is a css universal selector - it selects every element on a webpage. */
+
+* {
+    text-align: center;
+    color: blue;
+    text-transform: uppercase;
+}
