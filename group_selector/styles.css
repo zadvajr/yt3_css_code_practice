@@ -1,0 +1,5 @@
+/* group selector in css */
+h1, h2, p {
+    color: red;
+    text-align: center;
+}
