@@ -1,0 +1,8 @@
+/* This css file is an example of how to select a specific element with a particular class in css */
+
+/* Example: the css rule below will select only a paragraph element with class center and apply tex-align property and color */
+
+p.center {
+    color: red;
+    text-align: center;
+}
